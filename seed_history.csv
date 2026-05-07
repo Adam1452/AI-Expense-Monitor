@@ -1,0 +1,61 @@
+tx_id,date,description,amount,vendor,category,confidence,source_file,created_at
+seed_001,2025-11-03,Stripe Fee,0.45,Stripe,Banking Fees,0.97,seed_history.csv,2025-11-03T09:00:00Z
+seed_002,2025-11-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2025-11-05T09:00:00Z
+seed_003,2025-11-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2025-11-08T09:00:00Z
+seed_004,2025-11-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2025-11-10T09:00:00Z
+seed_005,2025-11-12,Staples Office Supplies,67.30,Staples,Office,0.92,seed_history.csv,2025-11-12T09:00:00Z
+seed_006,2025-11-15,AWS,2150.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2025-11-15T09:00:00Z
+seed_007,2025-11-18,Stripe Fee,1.20,Stripe,Banking Fees,0.97,seed_history.csv,2025-11-18T09:00:00Z
+seed_008,2025-11-22,Facebook Ads,780.00,Facebook Ads,Marketing,0.95,seed_history.csv,2025-11-22T09:00:00Z
+seed_009,2025-11-26,Stripe Fee,2.85,Stripe,Banking Fees,0.97,seed_history.csv,2025-11-26T09:00:00Z
+seed_010,2025-11-28,IKEA Office Furniture,142.50,IKEA,Office,0.88,seed_history.csv,2025-11-28T09:00:00Z
+seed_011,2025-12-02,Stripe Fee,0.85,Stripe,Banking Fees,0.97,seed_history.csv,2025-12-02T09:00:00Z
+seed_012,2025-12-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2025-12-05T09:00:00Z
+seed_013,2025-12-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2025-12-08T09:00:00Z
+seed_014,2025-12-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2025-12-10T09:00:00Z
+seed_015,2025-12-14,Amazon Office Supplies,89.40,Amazon,Office,0.90,seed_history.csv,2025-12-14T09:00:00Z
+seed_016,2025-12-15,AWS,2380.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2025-12-15T09:00:00Z
+seed_017,2025-12-18,Stripe Fee,1.65,Stripe,Banking Fees,0.97,seed_history.csv,2025-12-18T09:00:00Z
+seed_018,2025-12-22,Facebook Ads,850.00,Facebook Ads,Marketing,0.95,seed_history.csv,2025-12-22T09:00:00Z
+seed_019,2025-12-27,Stripe Fee,3.10,Stripe,Banking Fees,0.97,seed_history.csv,2025-12-27T09:00:00Z
+seed_020,2025-12-29,Staples Office Supplies,54.20,Staples,Office,0.92,seed_history.csv,2025-12-29T09:00:00Z
+seed_021,2026-01-04,Stripe Fee,0.95,Stripe,Banking Fees,0.97,seed_history.csv,2026-01-04T09:00:00Z
+seed_022,2026-01-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2026-01-05T09:00:00Z
+seed_023,2026-01-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2026-01-08T09:00:00Z
+seed_024,2026-01-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2026-01-10T09:00:00Z
+seed_025,2026-01-13,Amazon Office Supplies,112.80,Amazon,Office,0.90,seed_history.csv,2026-01-13T09:00:00Z
+seed_026,2026-01-15,AWS,2520.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2026-01-15T09:00:00Z
+seed_027,2026-01-19,Stripe Fee,2.05,Stripe,Banking Fees,0.97,seed_history.csv,2026-01-19T09:00:00Z
+seed_028,2026-01-22,Facebook Ads,720.00,Facebook Ads,Marketing,0.95,seed_history.csv,2026-01-22T09:00:00Z
+seed_029,2026-01-26,Stripe Fee,1.40,Stripe,Banking Fees,0.97,seed_history.csv,2026-01-26T09:00:00Z
+seed_030,2026-01-29,Staples Office Supplies,38.95,Staples,Office,0.92,seed_history.csv,2026-01-29T09:00:00Z
+seed_031,2026-02-03,Stripe Fee,0.75,Stripe,Banking Fees,0.97,seed_history.csv,2026-02-03T09:00:00Z
+seed_032,2026-02-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2026-02-05T09:00:00Z
+seed_033,2026-02-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2026-02-08T09:00:00Z
+seed_034,2026-02-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2026-02-10T09:00:00Z
+seed_035,2026-02-12,IKEA Office Furniture,198.00,IKEA,Office,0.88,seed_history.csv,2026-02-12T09:00:00Z
+seed_036,2026-02-15,AWS,2700.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2026-02-15T09:00:00Z
+seed_037,2026-02-18,Stripe Fee,1.85,Stripe,Banking Fees,0.97,seed_history.csv,2026-02-18T09:00:00Z
+seed_038,2026-02-22,Facebook Ads,820.00,Facebook Ads,Marketing,0.95,seed_history.csv,2026-02-22T09:00:00Z
+seed_039,2026-02-25,Stripe Fee,2.50,Stripe,Banking Fees,0.97,seed_history.csv,2026-02-25T09:00:00Z
+seed_040,2026-02-27,Amazon Office Supplies,76.30,Amazon,Office,0.90,seed_history.csv,2026-02-27T09:00:00Z
+seed_041,2026-03-02,Stripe Fee,0.65,Stripe,Banking Fees,0.97,seed_history.csv,2026-03-02T09:00:00Z
+seed_042,2026-03-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2026-03-05T09:00:00Z
+seed_043,2026-03-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2026-03-08T09:00:00Z
+seed_044,2026-03-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2026-03-10T09:00:00Z
+seed_045,2026-03-13,Staples Office Supplies,91.20,Staples,Office,0.92,seed_history.csv,2026-03-13T09:00:00Z
+seed_046,2026-03-15,AWS,2890.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2026-03-15T09:00:00Z
+seed_047,2026-03-19,Stripe Fee,1.95,Stripe,Banking Fees,0.97,seed_history.csv,2026-03-19T09:00:00Z
+seed_048,2026-03-22,Facebook Ads,790.00,Facebook Ads,Marketing,0.95,seed_history.csv,2026-03-22T09:00:00Z
+seed_049,2026-03-26,Stripe Fee,2.20,Stripe,Banking Fees,0.97,seed_history.csv,2026-03-26T09:00:00Z
+seed_050,2026-03-29,Amazon Office Supplies,134.60,Amazon,Office,0.90,seed_history.csv,2026-03-29T09:00:00Z
+seed_051,2026-04-03,Stripe Fee,0.80,Stripe,Banking Fees,0.97,seed_history.csv,2026-04-03T09:00:00Z
+seed_052,2026-04-05,Spotify Premium,11.99,Spotify,Subscriptions,0.99,seed_history.csv,2026-04-05T09:00:00Z
+seed_053,2026-04-08,GitHub,21.00,GitHub,Software / SaaS,0.98,seed_history.csv,2026-04-08T09:00:00Z
+seed_054,2026-04-10,Notion,10.00,Notion,Software / SaaS,0.98,seed_history.csv,2026-04-10T09:00:00Z
+seed_055,2026-04-14,Staples Office Supplies,58.40,Staples,Office,0.92,seed_history.csv,2026-04-14T09:00:00Z
+seed_056,2026-04-15,AWS,2870.00,AWS,Cloud Infrastructure,0.99,seed_history.csv,2026-04-15T09:00:00Z
+seed_057,2026-04-18,Stripe Fee,1.55,Stripe,Banking Fees,0.97,seed_history.csv,2026-04-18T09:00:00Z
+seed_058,2026-04-22,Facebook Ads,810.00,Facebook Ads,Marketing,0.95,seed_history.csv,2026-04-22T09:00:00Z
+seed_059,2026-04-26,Stripe Fee,2.75,Stripe,Banking Fees,0.97,seed_history.csv,2026-04-26T09:00:00Z
+seed_060,2026-04-29,IKEA Office Furniture,165.30,IKEA,Office,0.88,seed_history.csv,2026-04-29T09:00:00Z
